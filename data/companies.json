@@ -43,5 +43,20 @@
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png",
 		"tags": null
+	},
+	{
+		"id": "18650",
+		"name": "RESTFiddle",
+		"summary": "RESTFiddle is an Enterprise-grade API Management Platform for Teams. It helps you design, develop, test and release APIs.",
+		"details": "RESTFiddle is an Enterprise-grade API Management Platform for Teams. It helps you design, develop, test and release APIs.",
+		"website": "http://www.restfiddle.com/",
+		"twitter": "https://twitter.com/ranjankumar_rk",
+		"github": "https://github.com/AnujaK/restfiddle",
+		"blog": "http://blog.restfiddle.com/",
+		"blogrss": "http://blog.restfiddle.com/feeds/posts/default?alt=rss",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/RESTFiddle-Logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/RESTFiddle-Logo.png",
+		"tags": null
 	}
 ]
