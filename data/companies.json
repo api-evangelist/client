@@ -17,8 +17,8 @@
 	{
 		"id": "18699",
 		"name": "PAW",
-		"summary": false,
-		"details": "",
+		"summary": "Paw is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful. Either you are an API maker or consumer, Paw helps you build HTTP requests, inspect the server's response and even generate client code.",
+		"details": "Paw is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful. Either you are an API maker or consumer, Paw helps you build HTTP requests, inspect the server's response and even generate client code.",
 		"website": "",
 		"twitter": "https://twitter.com/LuckyMarmot",
 		"github": "https://github.com/luckymarmot",
@@ -32,8 +32,8 @@
 	{
 		"id": "3776",
 		"name": "Postman REST Client",
-		"summary": false,
-		"details": "",
+		"summary": "Postman on Chrome is the most efficient way to test, develop and document APIs. Create complex requests, go back in time and view results in a beautiful way. Postman has more than 80 features to help you at every step.",
+		"details": "Postman on Chrome is the most efficient way to test, develop and document APIs. Create complex requests, go back in time and view results in a beautiful way. Postman has more than 80 features to help you at every step.",
 		"website": "http://www.getpostman.com/",
 		"twitter": "https://twitter.com/postmanclient",
 		"github": "https://github.com/a85",
