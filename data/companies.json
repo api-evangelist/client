@@ -1,5 +1,35 @@
 [
 	{
+		"id": "UvAe6UPmqjCC8i1J7xeJdFzXpzWHeODtMr4o6xeUuKtIg8Abh2l9CEL116xGBEbYqS123Y4SjihJ4123k5Obo6i3QO2w117117",
+		"name": "API Garage",
+		"summary": "API Design, Documentation, and Testing for Teams. We are building a platform that will integrate itself in your teams API development workflow and increase your team productivity. We are running private beta with a number of teams, and they simply love us.",
+		"details": "API Design, Documentation, and Testing for Teams. We are building a platform that will integrate itself in your teams API development workflow and increase your team productivity. We are running private beta with a number of teams, and they simply love us.",
+		"website": "http://apigarage.com/",
+		"twitter": "https://twitter.com/apigarage",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-garage-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-garage-logo.png",
+		"tags": null
+	},
+	{
+		"id": "UM1234JoIO5Ul0eFUWkOcRCfvYZfWBZmtiDxFBSZh4SBM3ixBu0oWLGXYEXSAzx4DUnkb8XJxjURYNDoQkjX786A117117",
+		"name": "Apigee API Studio",
+		"summary": "Apigee launched their API Studio out of their earlier Apigee-127 product, their work on the Swagger platform and editor, and their BaaS offering, opening up the ability for developers to design, mock, test and share via the online platform. While Apigee Studio is part of the larger Apigee line of products, it is a separate standalone, open source based studio.",
+		"details": "Apigee launched their API Studio out of their earlier Apigee-127 product, their work on the Swagger platform and editor, and their BaaS offering, opening up the ability for developers to design, mock, test and share via the online platform. While Apigee Studio is part of the larger Apigee line of products, it is a separate standalone, open source based studio.",
+		"website": "http://apistudio.io/",
+		"twitter": "",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png",
+		"logo_width": "225",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png",
+		"tags": null
+	},
+	{
 		"id": "NEHdT7j56Gwv3rARuvM9nQ6IrkIfm2m2MHs60HgzOrNN116R6SKl3QjyXjY9bv11LmuI123Z9s8r2kFJlr2Y5UARSA117117",
 		"name": "Insomnia.Rest",
 		"summary": "Never use CURL again. Store, organize, and execute API requests in a beautiful and elegant interface. Insomnia lets you manage requests in a simple and elegant way, by providing everything you need in an organized interface.",
@@ -12,6 +42,21 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Insomnia-REST-API-Client.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Insomnia-REST-API-Client.png",
+		"tags": null
+	},
+	{
+		"id": "59LLIKzacVSRtNzjzCfrUZ3wRS116oAinZg7o7738JKZt6OF6ldLa5vIhU6vPIQgVNlaAIQvcK7fDm123oJ7biZ3Eg117117",
+		"name": "Mulesoft Anypoint Studio",
+		"summary": "A single graphical design environment for Anypoint Platform, Anypointu2122 Studio accelerates developer productivity with an easy on ramp for cloud and on-premises integration and API development.",
+		"details": "A single graphical design environment for Anypoint Platform, Anypointu2122 Studio accelerates developer productivity with an easy on ramp for cloud and on-premises integration and API development.",
+		"website": "https://www.mulesoft.com/platform/enterprise-integration",
+		"twitter": "https://twitter.com/MuleSoft",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg",
 		"tags": null
 	},
 	{
@@ -72,6 +117,36 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/RESTFiddle-Logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/RESTFiddle-Logo.png",
+		"tags": null
+	},
+	{
+		"id": "8z6MkPWPJp1bnMhJb9NoT6OC711612321KsAK5BXAebEWievfubD0dIIOslTCbt77vq7WEDxgwEAjsd11671RwktMNVw117117",
+		"name": "StopLight",
+		"summary": "StopLight provides engineering teams with a new way to document, test, and build web APIs. Our technology easily and automatically maps an API, and then provides tooling and services to reduce development time, and increase reliability and accessibility.",
+		"details": "StopLight provides engineering teams with a new way to document, test, and build web APIs. Our technology easily and automatically maps an API, and then provides tooling and services to reduce development time, and increase reliability and accessibility.",
+		"website": "http://stoplight.io/",
+		"twitter": "https://twitter.com/stoplightio",
+		"github": "https://github.com/stoplightio",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png",
+		"tags": null
+	},
+	{
+		"id": "123KY1se0eAASHw8mJE116ev3NhwryR116KxJIk123G4n123hKLbUVynjsFSs9SKLQXs77gikKkPm7fBteGNuwBFspIbVrCQ117117",
+		"name": "SwaggerHub",
+		"summary": "The place for teams to collaborate and coordinate the entire workflow of an APIs lifecycle.  SwaggerHubu2019s built-in editors let you rapidly create the Swagger definition that everything else is based on, in an intuitive interface that lets you write, visualize and validate all at the same time.  ",
+		"details": "The place for teams to collaborate and coordinate the entire workflow of an APIs lifecycle.  SwaggerHubu2019s built-in editors let you rapidly create the Swagger definition that everything else is based on, in an intuitive interface that lets you write, visualize and validate all at the same time.  ",
+		"website": "https://swaggerhub.com/",
+		"twitter": "https://twitter.com/swaggerhub",
+		"github": "https://github.com/swagger-hub",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SwaggerHub_Logo_Horizontal_Color.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SwaggerHub_Logo_Horizontal_Color.png",
 		"tags": null
 	}
 ]
