@@ -7,12 +7,19 @@
 		"website": "http://apigarage.com/",
 		"twitter": "https://twitter.com/apigarage",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-garage-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-garage-logo.png",
-		"tags": null
+		"tags": [
+			"Client"
+		]
 	},
 	{
 		"id": "UM1234JoIO5Ul0eFUWkOcRCfvYZfWBZmtiDxFBSZh4SBM3ixBu0oWLGXYEXSAzx4DUnkb8XJxjURYNDoQkjX786A117117",
@@ -22,12 +29,22 @@
 		"website": "http://apistudio.io/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png",
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png",
-		"tags": null
+		"tags": [
+			"Virtualization",
+			"Testing",
+			"Design",
+			"Client"
+		]
 	},
 	{
 		"id": "NEHdT7j56Gwv3rARuvM9nQ6IrkIfm2m2MHs60HgzOrNN116R6SKl3QjyXjY9bv11LmuI123Z9s8r2kFJlr2Y5UARSA117117",
@@ -37,12 +54,20 @@
 		"website": "http://insomnia.rest/",
 		"twitter": "https://twitter.com/GetInsomnia",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Insomnia-REST-API-Client.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Insomnia-REST-API-Client.png",
-		"tags": null
+		"tags": [
+			"Google Chrome",
+			"Client"
+		]
 	},
 	{
 		"id": "59LLIKzacVSRtNzjzCfrUZ3wRS116oAinZg7o7738JKZt6OF6ldLa5vIhU6vPIQgVNlaAIQvcK7fDm123oJ7biZ3Eg117117",
@@ -52,12 +77,21 @@
 		"website": "https://www.mulesoft.com/platform/enterprise-integration",
 		"twitter": "https://twitter.com/MuleSoft",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg",
-		"tags": null
+		"tags": [
+			"Reciprocity",
+			"Client",
+			"Aggregation"
+		]
 	},
 	{
 		"id": "c3jS2Q24ibpWq10GWEKy6123gvVI7T09XN8hbzgrXRhezkG5uHS7YVoW123M2vBu7rejWXW55RA9jSky4Dm123I68p1A117117",
@@ -67,12 +101,19 @@
 		"website": "",
 		"twitter": "https://twitter.com/LuckyMarmot",
 		"github": "https://github.com/luckymarmot",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/luckymarmot",
+		"base_url": "",
 		"blog": "http://blog.luckymarmot.com/",
 		"blogrss": "http://blog.luckymarmot.com/rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/paw-http-client.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/paw-http-client.png",
-		"tags": null
+		"tags": [
+			"Client"
+		]
 	},
 	{
 		"id": "CEHn5HTji5KMMn2PKoquVUELLxgHp5xlC7bwpRD4WMT1GTz123tH3Tfil6imy116iVmtTG123a4SdmIhNvWyvoqUgz123g117117",
@@ -82,12 +123,21 @@
 		"website": "http://www.getpostman.com/",
 		"twitter": "https://twitter.com/postmanclient",
 		"github": "https://github.com/a85",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/a85",
+		"base_url": "",
 		"blog": "http://blog.getpostman.com/",
 		"blogrss": "http://blog.getpostman.com/index.php/feed/",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Client",
+			"Chrome"
+		]
 	},
 	{
 		"id": "uzuF0TaEwbebzfKWUciLyWoYEySyU2uVKnpZAbMk84EI2ydIBvFKcg123ASb7116ZHmaGljsAbESgQs1NuhoZP4HUQ117117",
@@ -97,12 +147,19 @@
 		"website": "http://www.restfiddle.com/",
 		"twitter": "https://twitter.com/ranjankumar_rk",
 		"github": "https://github.com/AnujaK/restfiddle",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/AnujaK/restfiddle",
+		"base_url": "",
 		"blog": "http://blog.restfiddle.com/",
 		"blogrss": "http://blog.restfiddle.com/feeds/posts/default?alt=rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restfiddle-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restfiddle-logo.png",
-		"tags": null
+		"tags": [
+			"Client"
+		]
 	},
 	{
 		"id": "R116awzKURzJC3GIwcdSuF8yXv9nDGFsPUCUYOj1aSuejaCS116igPLvIdJxABIuoHzzvPMBLoRlYjl11651YqrSxxjA117117",
@@ -112,12 +169,20 @@
 		"website": "http://www.reprezen.com/",
 		"twitter": "https://twitter.com/reprezen_API",
 		"github": "https://github.com/reprezen",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/reprezen",
+		"base_url": "",
 		"blog": "http://www.reprezen.com/blog",
 		"blogrss": "http://www.reprezen.com/blog/rss.xml",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/reprezen-logo.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/reprezen-logo.jpg",
-		"tags": null
+		"tags": [
+			"Design",
+			"Client"
+		]
 	},
 	{
 		"id": "adrVQsJMtEJ2u7Ko6Dy3m1164yM116GjIAtUtDwLO2tykeL123EJ9hvndQHsjnvjz7PHc116116addQ308m1166QVAkMSEbeaA117117",
@@ -127,12 +192,20 @@
 		"website": "https://restlet.com/products/dhc/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restlet-dhc-logo.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restlet-dhc-logo.jpg",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Client"
+		]
 	},
 	{
 		"id": "8z6MkPWPJp1bnMhJb9NoT6OC711612321KsAK5BXAebEWievfubD0dIIOslTCbt77vq7WEDxgwEAjsd11671RwktMNVw117117",
@@ -142,12 +215,21 @@
 		"website": "http://stoplight.io/",
 		"twitter": "https://twitter.com/stoplightio",
 		"github": "https://github.com/stoplightio",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/stoplightio",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"Client",
+			"API LIfeycle"
+		]
 	},
 	{
 		"id": "123KY1se0eAASHw8mJE116ev3NhwryR116KxJIk123G4n123hKLbUVynjsFSs9SKLQXs77gikKkPm7fBteGNuwBFspIbVrCQ117117",
@@ -157,11 +239,18 @@
 		"website": "https://swaggerhub.com/",
 		"twitter": "https://twitter.com/swaggerhub",
 		"github": "https://github.com/swagger-hub",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/swagger-hub",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SwaggerHub_Logo_Horizontal_Color.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SwaggerHub_Logo_Horizontal_Color.png",
-		"tags": null
+		"tags": [
+			"Client"
+		]
 	}
 ]
