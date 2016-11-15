@@ -538,7 +538,7 @@
 	{
 		"curated_id": "jfjJqBcar123PemH46123cc116svPe123wDQYc8HouGtvLa123C4nOroIS1231167ht0PWNdUtzuhzKpk3Rzw8w3Pxn116BqxJPPrw117117",
 		"item_date": "2015-08-28 20:56:42",
-		"title": "Thinking Beyond Just Language Specific Clients and Also Speaking the Formats Popular HTTP Clients Are Using ",
+		"title": "",
 		"url": "http://apievangelist.com/2015/08/28/thinking-beyond-just-language-specific-clients-and-also-speaking-the-formats-popular-http-clients-are-using/",
 		"domain": "apievangelist.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150828thinking-beyond-just-language-specific-clients-and-also-speaking-the-formats-popular-http-clients-are-using.png"
@@ -626,7 +626,7 @@
 	{
 		"curated_id": "3sJPfkcY5eAbsvWzr123CAAFn123zOUgpauY9S116mAmnXtDYQWVlSOT0Y075GEhq4BTYV2rYM6IhApSJVh116EkfTZvdQ117117",
 		"item_date": "2015-05-27 11:00:23",
-		"title": "A Cleaner Simpler Example of API To SPA ",
+		"title": "",
 		"url": "http://apievangelist.com/2015/05/27/a-cleaner-simpler-example-of-api-to-spa/",
 		"domain": "apievangelist.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150527a-cleaner-simpler-example-of-api-to-spa.png"
@@ -662,29 +662,5 @@
 		"url": "https://blog.apiary.io/2015/02/17/Utilising-API-Blueprint-in-API-Clients",
 		"domain": "blog.apiary.io",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150217utilising-api-blueprint-in-api-clients.png"
-	},
-	{
-		"curated_id": "8dqruf8x2B72eVfCel5cjbe2QBFiUklrVUqJ116UTEVD33P5j123sRJZyNXirnMirDMhg7MkFDNeKTKohJiyBGotWA117117",
-		"item_date": "2013-10-02 00:00:00",
-		"title": "Glympse Client API 2041 is Live",
-		"url": "http://developer.glympse.com/cms/post/2013/10/02/Glympse-Client-API-2041-is-Live1",
-		"domain": "developer.glympse.com",
-		"image": ""
-	},
-	{
-		"curated_id": "YnTL2d9JZSkrcRyqC0FtZOIypaX7Rwx1oHLBbiEdjatu7ztymektbH123GnhlaC123vFoEBvs1ij4Vu116BIPdEZSy5w117117",
-		"item_date": "2013-03-13 00:00:00",
-		"title": "Twitter Launches Its First Official App For Windows 8 And RT",
-		"url": "https://techcrunch.com/2013/03/13/twitter-launches-its-first-official-app-for-windows-8-and-rt/",
-		"domain": "techcrunch.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
-	},
-	{
-		"curated_id": "gqXQdHIpdLSSJIU9VZ8Q5zOSuNY123AeArOwzqAppqDvrMfjGJgJ4ZAXQRulCvEbkH0Tcyb135aH2bsmymz4LnNQ117117",
-		"item_date": "2013-03-10 10:17:21",
-		"title": "Twitters API keys and secrets for its official apps surface what should we do with them  The Next Web",
-		"url": "http://thenextweb.com/twitter/2013/03/07/twitters-api-keys-and-secrets-surface-for-its-official-apps-what-should-we-do-with-them/",
-		"domain": "thenextweb.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
 	}
 ]
