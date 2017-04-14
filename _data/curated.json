@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "KGTt8efs11NCpNMMiY35Iw5X0cNkzYC5L1166YW081yzTrBihvbTjDrfKC3vXVGpJ3IaOuOjBAQQbzIyPT5qJAOQ117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "Announcing the Postman Enterprise Beta with Single SignOn SSO",
+		"url": "http://blog.getpostman.com/2017/04/14/announcing-the-postman-enterprise-beta-with-single-sign-on-sso/",
+		"domain": "blog.getpostman.com",
+		"image": ""
+	},
+	{
 		"curated_id": "123MDfgOKhZmY4LxJCmho5j3am2GzvX0KF5XsEvlixBPfy7RtEBsNQvSCOs1234FaSByyL5vqk1xsJRKns123cwBTqSA117117",
 		"item_date": "2017-04-05 20:13:32",
 		"title": "Tweet Its now so much easier to deal with environment variables with the new autocomplete in version 5",
