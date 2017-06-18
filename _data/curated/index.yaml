@@ -1,2 +1,742 @@
---- []
+---
+- curated_id: 2b9b0d0e8c5f77a5e8bb916f0b78a7dd
+  item_date: "2015-02-17 06:08:20"
+  title: Utilising API Blueprint in API Clients
+  url: https://blog.apiary.io/2015/02/17/Utilising-API-Blueprint-in-API-Clients
+  domain: blog.apiary.io
+  image: ""
+- curated_id: 6e0f3502d6043e8dda855e88420be478
+  item_date: "2015-02-20 00:00:00"
+  title: YouTube Playlists API .NET Code
+  url: http://www.codeproject.com/Articles/878204/YouTube-Playlists-API-NET-Code
+  domain: www.codeproject.com
+  image: ""
+- curated_id: e5967cd4708275547e87d3149da32e3a
+  item_date: "2015-02-20 08:48:02"
+  title: LucyBot - Get your APIs consumers moving faster
+  url: http://lucybot.com/
+  domain: lucybot.com
+  image: ""
+- curated_id: f789116211c63859a87c4941d7bbb191
+  item_date: "2015-05-26 09:30:26"
+  title: Postman, An API Development Platform Used By Box And Others, Raises $1M
+  url: http://techcrunch.com/2015/05/26/postman-api-platform-1-million/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 29ebb802fd3fe063e211e64bbaa0f956
+  item_date: "2015-05-27 00:00:00"
+  title: Moving Beyond the Browser with JavaScript and Hypermedia
+  url: http://blog.runscope.com/posts/moving-beyond-the-browser-with-javascript-and-hypermedia
+  domain: blog.runscope.com
+  image: ""
+- curated_id: e9c3a63181a5a4a960c851605aee5af5
+  item_date: "2015-05-28 00:00:00"
+  title: Postman API Development Platform Eases API Construction
+  url: http://www.programmableweb.com/news/postman-api-development-platform-eases-api-construction/2015/05/28
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 063dcad7affe0753f81bf2821318c0ae
+  item_date: "2015-05-28 00:00:00"
+  title: 'Postman 3.0: A whole new experience to supercharge your API workflow'
+  url: http://blog.getpostman.com/2015/05/28/postman-3-0-a-whole-new-experience/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: f13dd1d0207a1260094dc5dd1d8459f6
+  item_date: "2015-06-02 00:00:00"
+  title: Getting started with Postman Team Sync
+  url: http://blog.getpostman.com/2015/06/02/getting-started-with-postman-team-sync/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: ce79f0d9dcb006258adc2990f95ded4e
+  item_date: "2015-06-04 00:00:00"
+  title: Mashape Hopes to Simplify API Development with Paw Partnership
+  url: http://www.programmableweb.com/news/mashape-hopes-to-simplify-api-development-paw-partnership/2015/06/04
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5320c89cc8d807ba45664723e681b272
+  item_date: "2015-06-05 00:00:00"
+  title: Travelogue of Postman Collection Format v2
+  url: http://blog.getpostman.com/2015/06/05/travelogue-of-postman-collection-format-v2/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 7a7e307caa3540460d57a085b7135cf0
+  item_date: "2015-06-05 14:33:33"
+  title: Hyperdrive?Apiary Blog
+  url: http://blog.apiary.io/2015/06/04/Hyperdrive/
+  domain: blog.apiary.io
+  image: ""
+- curated_id: 63cf2275bc81ca523c2e8c0d5970da65
+  item_date: "2015-08-10 00:00:00"
+  title: 'New (RESTFiddle) Release '
+  url: http://blog.restfiddle.com/2015/08/new-release.html
+  domain: blog.restfiddle.com
+  image: ""
+- curated_id: 824f76eaf4f9cbf85d6351939b6a4878
+  item_date: "2015-08-31 00:00:00"
+  title: Writing front-end API code with Postman
+  url: http://blog.getpostman.com/2015/08/31/writing-front-end-api-code-with-postman/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: c2899dc51a378952c73c661ed9fef210
+  item_date: "2015-09-02 00:00:00"
+  title: How to write powerful automated API tests with Postman, Newman and Jenkins
+  url: http://blog.getpostman.com/2015/09/03/how-to-write-powerful-automated-api-tests-with-postman-newman-and-jenkins/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 10df2dec2b0174ace989c23c9eba22f2
+  item_date: "2015-09-24 00:00:00"
+  title: API integrations using Postman ? Building a Slack channel bot
+  url: http://blog.getpostman.com/2015/09/24/api-integrations-using-postman-building-a-slack-channel-bot/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 5322cd8c4c2bca32f7eaf413b2fdab1c
+  item_date: "2015-10-19 00:00:00"
+  title: Discover DHC by Restlet
+  url: http://restlet.com/blog/2015/10/19/discover-dhc-by-restlet/
+  domain: restlet.com
+  image: ""
+- curated_id: 16149a298b89cb9521acb73ad87b4981
+  item_date: "2015-11-26 00:00:00"
+  title: Use Curl To organise your HTTP request
+  url: http://www.codeproject.com/Tips/1059516/Use-Curl-To-organise-your-HTTP-request
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 9b7479e2943f083999f85e08a2227fcb
+  item_date: "2015-12-09 00:00:00"
+  title: Belong keeps its architecture in order with Postman
+  url: http://blog.getpostman.com/2015/12/10/belong-keeps-its-architecture-in-order-with-postman/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: d613162909f3580e2810355b6c5cf3dc
+  item_date: "2015-12-17 00:00:00"
+  title: Introducing Postman for Mac
+  url: http://blog.getpostman.com/2015/12/18/introducing-postman-for-mac/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 6ee8a3af0c0080a49b82fc20f2ee98b1
+  item_date: "2015-12-26 00:00:00"
+  title: New RESTFiddle Release - Mu
+  url: http://blog.restfiddle.com/2015/12/new-restfiddle-release-mu.html
+  domain: blog.restfiddle.com
+  image: ""
+- curated_id: ab6ce775ae2ccecbfdfa5877b77ee1e7
+  item_date: "2016-01-13 00:00:00"
+  title: Postman extension available for AWS Gateway APIs now
+  url: http://blog.getpostman.com/2016/01/14/postman-extension-available-for-aws-gateway-apis-now/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: e723e7dd711b3dfd0a49ab8b77daf285
+  item_date: "2016-01-13 00:00:00"
+  title: Introducing Private APIs for SwaggerHub
+  url: http://blog.smartbear.com/apis/private-apis-for-swaggerhub/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 56d1570ecf91ccb515031a49e92aa02f
+  item_date: "2016-01-18 00:00:00"
+  title: Developer Reverse Engineers Peach API, Creates Swift and Mac Clients
+  url: http://www.programmableweb.com/news/developer-reverse-engineers-peach-api-creates-swift-and-mac-clients/brief/2016/01/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 673de95b20cec9e9026318a8e8855c7c
+  item_date: "2016-01-21 00:00:00"
+  title: The Future of Empowerment Is On the Client
+  url: http://hapgood.us/2016/01/21/the-future-of-privacy-is-on-the-client/
+  domain: hapgood.us
+  image: ""
+- curated_id: d0b7cde0d25c98b9da1154c18568db61
+  item_date: "2016-01-26 00:00:00"
+  title: Using a mocking service to create Postman Collections
+  url: http://blog.getpostman.com/2016/01/26/using-a-mocking-service-to-create-postman-collections/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 8018a98135aad3e253392b47b9472a23
+  item_date: "2016-01-27 00:00:00"
+  title: Discovering Web APIs using DHC by Restlet
+  url: http://restlet.com/blog/2016/01/27/discovering-web-apis-using-dhc-by-restlet/
+  domain: restlet.com
+  image: ""
+- curated_id: 7e0d82e735aa7626ec9cbf10e60e6ea9
+  item_date: "2016-02-03 00:00:00"
+  title: cURL and Postman work wonderfully together
+  url: http://blog.getpostman.com/2016/02/03/curl-and-postman-work-wonderfully-together/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: d3c817292c80c4307414c0f45d506274
+  item_date: "2016-02-05 00:00:00"
+  title: 'Screencast: Discover APIs with DHC by Restlet'
+  url: http://restlet.com/blog/2016/02/05/screencast-discover-apis-with-dhc-by-restlet/
+  domain: restlet.com
+  image: ""
+- curated_id: de1c735c8b18630759d96636ac350615
+  item_date: "2016-02-05 00:00:00"
+  title: Postman ? the contract between operations and engineering at Coursera
+  url: http://blog.getpostman.com/2016/02/05/postman-the-contract-between-operations-and-engineering-at-coursera/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 087c46cfb0c7415b01958dd190dbc57c
+  item_date: "2016-02-16 00:00:00"
+  title: How to Interact With RESTful APIs Using the Restlet Graphical API Client
+  url: http://www.programmableweb.com/news/how-to-interact-restful-apis-using-restlet-graphical-api-client/how-to/2016/02/16
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 32a029726cb7fffd9b2ae6316e01fb5f
+  item_date: "2016-02-19 00:00:00"
+  title: 'Screencast: Testing APIs with DHC by Restlet'
+  url: http://restlet.com/blog/2016/02/19/screencast-testing-apis-with-dhc-by-restlet/
+  domain: restlet.com
+  image: ""
+- curated_id: fc9e7358363c6c967764ff3b1586fb05
+  item_date: "2016-02-23 00:00:00"
+  title: Postman ? the mode of communication between mobile and backend developers
+  url: http://blog.getpostman.com/2016/02/24/postman-the-mode-of-communication-between-mobile-and-backend-developers/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: f942d1ab3eedda349e9725fff8eaac17
+  item_date: "2016-02-26 00:00:00"
+  title: API Building and Testing Made Easier with Postman
+  url: http://www.sitepoint.com/api-building-and-testing-made-easier-with-postman/
+  domain: www.sitepoint.com
+  image: ""
+- curated_id: beb8b69cff18c0b193bcb6ac08e9fa55
+  item_date: "2016-03-03 00:00:00"
+  title: Simple REST API client in Go
+  url: http://motyar.blogspot.com/2016/03/simple-rest-api-client-in-go-google-go.html
+  domain: motyar.blogspot.com
+  image: ""
+- curated_id: 8dd6676f45fc98cd87c5b8862f487ccd
+  item_date: "2016-03-04 00:00:00"
+  title: Official DocRaptor Clients
+  url: https://docraptor.com/blog/official-docraptor-clients/
+  domain: docraptor.com
+  image: ""
+- curated_id: 572bd6089d011be72dbf3b41d42f41e2
+  item_date: "2016-03-04 00:00:00"
+  title: Introducing REST Client
+  url: http://jexia.com/introducing-rest-client/
+  domain: jexia.com
+  image: ""
+- curated_id: bc37821b99f9ced44518e98c8fed4324
+  item_date: "2016-03-05 00:00:00"
+  title: OkHttp ? An HTTP and SPDY Java Client
+  url: https://dzone.com/articles/okhttp-an-http-spdy-java-client
+  domain: dzone.com
+  image: ""
+- curated_id: 50dfb45782bf876bf77336c2328f6554
+  item_date: "2016-03-09 00:00:00"
+  title: 'Announcing: Environment Sharing!'
+  url: http://blog.getpostman.com/2016/03/10/environment-sharing/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 44dbe944ceb76c813df9bd5c344a5b17
+  item_date: "2016-03-09 00:00:00"
+  title: Introducing Auth0 for Postman Collections
+  url: https://auth0.com/blog/2016/03/10/introducing-auth0-collections-for-postman/
+  domain: auth0.com
+  image: ""
+- curated_id: 6105ab24dce510684d5b8a80c7c12c03
+  item_date: "2016-03-09 00:00:00"
+  title: The Run in Postman button is live on 10+ API publishers
+  url: http://blog.getpostman.com/2016/03/10/run-button-is-live/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 3ee16e331ff9879a3a4cf934b053da13
+  item_date: "2016-03-15 00:00:00"
+  title: Run in Postman Button is Now Live for 10+ Public APIs
+  url: http://www.programmableweb.com/news/run-postman-button-now-live-10-public-apis/brief/2016/03/15
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ac6652af04e134ca0e1a57b1d4f99588
+  item_date: "2016-03-17 13:22:46"
+  title: How adding the Run In Postman button changed our API
+  url: https://www.cronofy.com/blog/how-adding-the-run-in-postman-button-changed-our-api/
+  domain: www.cronofy.com
+  image: ""
+- curated_id: 6942f859f5f068496e76105539fb32b7
+  item_date: "2016-03-21 00:00:00"
+  title: Test your OAuth2 secured API using DHC
+  url: http://restlet.com/blog/2016/03/21/test-your-oauth2-secured-api-using-dhc/
+  domain: restlet.com
+  image: ""
+- curated_id: fb2400ede656f61f6934fad3f18ba6a2
+  item_date: "2016-03-22 00:00:00"
+  title: Conditional Workflows in Postman
+  url: http://blog.getpostman.com/2016/03/23/conditional-workflows-in-postman/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 78ec9006e76b4bcca35ac37cfe278cf4
+  item_date: "2016-03-22 00:00:00"
+  title: Run in Postman
+  url: http://blog.clearbit.com/introducing-the-run-in-postman-button/
+  domain: blog.clearbit.com
+  image: ""
+- curated_id: 5a934a76fa79f83507a7cc496a6cda45
+  item_date: "2016-03-24 00:00:00"
+  title: Introducing the Google API Console
+  url: https://developers.googleblog.com/2016/03/introducing-google-api-console.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: 6412b4b576fa5a5942216f7a19e022fb
+  item_date: "2016-03-29 00:00:00"
+  title: Import and test your Swagger API definitions in DHC
+  url: http://restlet.com/blog/2016/03/29/import-and-test-your-swagger-api-definitions-in-dhc/
+  domain: restlet.com
+  image: ""
+- curated_id: b5a028d4f7ae7e1074f64dd5b62205a1
+  item_date: "2016-03-29 00:00:00"
+  title: You asked, weve answered, Postman Collections!
+  url: https://developer.walgreens.com/blog/photo/postman
+  domain: developer.walgreens.com
+  image: ""
+- curated_id: 0bbe27e305b2ef8cf8baa106826f27e3
+  item_date: "2016-03-31 00:00:00"
+  title: Web API With HttpClient or Consume Web API From Console Application
+  url: https://dzone.com/articles/web-api-with-httpclient-or-consume-web-api-from-co
+  domain: dzone.com
+  image: ""
+- curated_id: 9c32b1a897bf5f09d0793dc417588577
+  item_date: "2016-04-05 00:00:00"
+  title: Token Based Authentication using Postman as Client and Web API 2 as Server
+  url: http://www.codeproject.com/Articles/1090252/Token-Based-Authentication-using-Postman-as-Client
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 21ae39545ac0506720af9aee7a862f0e
+  item_date: "2016-04-11 00:00:00"
+  title: 'API Garage: Moving to Open Source'
+  url: https://dzone.com/articles/api-garage-moving-to-open-source
+  domain: dzone.com
+  image: ""
+- curated_id: 3398ca351a633175af71c867e0b442de
+  item_date: "2016-04-26 00:00:00"
+  title: Importing SoapUI projects into Postman
+  url: http://blog.getpostman.com/2016/04/27/importing-soapui-projects-into-postman/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: e44120fa3facfe57643d0862fe66e224
+  item_date: "2016-05-12 00:00:00"
+  title: Using the Auth0 Postman Collections
+  url: https://auth0.com/blog/2016/05/12/using-the-auth0-postman-collections/
+  domain: auth0.com
+  image: ""
+- curated_id: b8859a8edcc147a7043aa96532c34525
+  item_date: "2016-05-19 00:00:00"
+  title: Import RAML Directories in Postman Directly
+  url: https://dzone.com/articles/import-raml-directories-in-postman-directly-1
+  domain: dzone.com
+  image: ""
+- curated_id: e38cda0914425f2db92500b157ce9f7c
+  item_date: "2016-06-09 00:00:00"
+  title: RESTful Client Example [Mongoose More Than An Embedded Web Server]
+  url: https://dzone.com/articles/restful-client-example-mongoose-more-than-an-embed
+  domain: dzone.com
+  image: ""
+- curated_id: 400c4949b9bc58ebc344349ab8b67235
+  item_date: "2016-06-21 00:00:00"
+  title: DHC supports HTTP Archive v1.2 (HAR)
+  url: http://restlet.com/blog/2016/06/21/dhc-supports-http-archive-v1-2-har/
+  domain: restlet.com
+  image: ""
+- curated_id: 09845d2cdc07d38f7deb0b6872fb0f91
+  item_date: "2016-07-04 00:00:00"
+  title: The Postman Always Tests Your Web APIs, Twice.
+  url: http://www.codeproject.com/Articles/1110445/The-Postman-Always-Tests-Your-Web-APIs-Twice
+  domain: www.codeproject.com
+  image: ""
+- curated_id: e9b9ff0657a39e6d63ac391f14afe48f
+  item_date: "2016-07-06 00:00:00"
+  title: 'Screencast: Test OAuth2 Secured API with DHC'
+  url: http://restlet.com/blog/2016/07/06/screencast-test-oauth2-secured-api-with-dhc/
+  domain: restlet.com
+  image: ""
+- curated_id: ffe44efbc69a5d0d6d780229010f5dc6
+  item_date: "2016-07-28 16:12:04"
+  title: 'Tweet: You can now disable SSL validation in the settings menu. https://t.co/w8xcpJFJXy'
+  url: https://twitter.com/GetInsomnia/statuses/758802229763518464
+  domain: twitter.com
+  image: ""
+- curated_id: d76ea17218bb46188c43a419037eb2cf
+  item_date: "2016-08-02 00:00:00"
+  title: Introducing Postman for Windows
+  url: http://blog.getpostman.com/2016/08/02/introducing-postman-for-windows/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 159d8fc83ba1c838e76fe5cf16db8a6a
+  item_date: "2016-08-04 00:00:00"
+  title: Explore and learn cool DHC features
+  url: http://restlet.com/blog/2016/08/04/explore-and-learn-cool-dhc-features/
+  domain: restlet.com
+  image: ""
+- curated_id: 9450d0dad78d9615885d784f7386169e
+  item_date: "2016-08-04 09:40:34"
+  title: 'Tweet: RT @luckymarmot: Generate API Tests ready for @Runscope from Paw!
+    Install the new Runscope API Test Generator https://t.co/pv3fCSWFQk'
+  url: https://twitter.com/luckymarmot/status/761228961447837696
+  domain: twitter.com
+  image: ""
+- curated_id: 4f29bc8fdd50fe1637b371a1de7879bd
+  item_date: "2016-08-07 00:00:00"
+  title: Paw 3.0.5 API Tool for Mac Has Been Released
+  url: http://www.programmableweb.com/news/paw-3.0.5-api-tool-mac-has-been-released/brief/2016/08/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 361c834d65aff9d75cab7834b47d16ba
+  item_date: "2016-08-07 00:00:00"
+  title: Paw 3 API Tool for Mac Has Been Released
+  url: http://www.programmableweb.com/news/paw-3-api-tool-mac-has-been-released/brief/2016/08/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 531b82c8d2a8b7b36aee31391a76f2c0
+  item_date: "2016-08-09 00:00:00"
+  title: Changes in DHC Chrome Store packaging
+  url: http://restlet.com/blog/2016/08/09/changes-in-dhc-chrome-store-packaging/
+  domain: restlet.com
+  image: ""
+- curated_id: 7276d3cf8203add5c8eefa64f87b03e6
+  item_date: "2016-08-13 15:14:33"
+  title: 'Tweet: RT @shamasis: Have you used the new @postmanclient newman v3 #cli
+    yet? #api #JavaScript #nodejs https://t.co/0gn2ZOSnKR'
+  url: https://twitter.com/shamasis/status/764548629235273728
+  domain: twitter.com
+  image: ""
+- curated_id: ba5c3c27e72f04007f06df35afb929ac
+  item_date: "2016-08-18 00:00:00"
+  title: DHC 1.3 Release Notes
+  url: http://restlet.com/blog/2016/08/18/dhc-1-3-release-notes/
+  domain: restlet.com
+  image: ""
+- curated_id: 03fd80ca60bf76b8656fc0cd954be45e
+  item_date: "2016-08-18 15:08:25"
+  title: Share and document your API with Postman Cloud
+  url: http://www.theodo.fr/blog/2016/08/share-and-document-your-api-with-postman-cloud/
+  domain: www.theodo.fr
+  image: ""
+- curated_id: dc3b7b499b0903b8439af5e95288420e
+  item_date: "2016-08-19 00:00:00"
+  title: Use Postman for HTTP Requests
+  url: https://docs.brightcove.com/en/video-cloud/concepts/postman/postman.html
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: a46bba75486616672e6edaa2f746073d
+  item_date: "2016-08-22 00:00:00"
+  title: Using the Postman Chrome App? Implications from the Recent Google Announcement
+  url: http://blog.getpostman.com/2016/08/23/using-the-postman-chrome-app-implications-from-the-recent-google-announcement/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: fbfcd50d95c1a8a0eb8c6300f74c7b73
+  item_date: "2016-08-26 10:24:05"
+  title: Postman, a startup which delivers solutions to manage application programming
+    interfaces - The Economic Times
+  url: http://economictimes.indiatimes.com/small-biz/startups/postman-a-startup-which-delivers-solutions-to-manage-application-programming-interfaces/articleshow/53865855.cms
+  domain: economictimes.indiatimes.com
+  image: ""
+- curated_id: 5ea123e757570ecf036fd33d76f8f7ce
+  item_date: "2016-08-29 00:00:00"
+  title: REST Client for SharePoint
+  url: http://www.codeproject.com/Articles/1121217/REST-Client-for-SharePoint
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 46e39c090a428b2e51ee95f72dc720f5
+  item_date: "2016-08-29 00:00:00"
+  title: How to Use the cURL Command to Examine the Contents of a Web API#039;s Header
+  url: http://www.programmableweb.com/news/how-to-use-curl-command-to-examine-contents-web-apis-header/how-to/2016/08/29
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5a91a1390b406466f0989232d1e9ea5e
+  item_date: "2016-08-31 00:00:00"
+  title: Creating a Simple iOS REST Client Using HTTP-RPC
+  url: https://dzone.com/articles/creating-a-simple-ios-rest-client-usingnbsphttp-rp
+  domain: dzone.com
+  image: ""
+- curated_id: bde1effd35d5a4f7786c9df7af064515
+  item_date: "2016-09-02 00:00:00"
+  title: 'OAuth: Get Client Credentials Using Postman'
+  url: http://docs.brightcove.com/en/video-cloud/oauth-api/guides/get-client-credentials-postman.html
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: eb030148afd14bab791a2839ff16e518
+  item_date: "2016-09-06 12:09:15"
+  title: 'Tweet: RT @antoniotroina: Just tried @postmanclient extension ldquo;postman
+    interceptorrdquo;, quite useful: https://t.co/pQMik2kVz4'
+  url: https://twitter.com/antoniotroina/status/772804789793132544
+  domain: twitter.com
+  image: ""
+- curated_id: e017a4de0ee48c080c051bddac86e9f2
+  item_date: "2016-09-13 16:18:36"
+  title: 'Tweet: You wanted it, so now it#039;s here! Finally, you have a way of cancelling
+    long running HTTP requests. https://t.co/GhJAJoFqgD'
+  url: https://twitter.com/GetInsomnia/statuses/775836106604486657
+  domain: twitter.com
+  image: ""
+- curated_id: 26cb9875486e5ac54a58353a0143505b
+  item_date: "2016-09-13 18:04:38"
+  title: 'Tweet: RT @lstanczyk: Postman - a great tool for API devs now has a window
+    native app. Get it here: https://t.co/EdVCqI9dPn @postmanclient  #softwhellip;'
+  url: https://twitter.com/lstanczyk/status/775774852128972800
+  domain: twitter.com
+  image: ""
+- curated_id: 24e46f0782938fe141f9b0c3f015fba9
+  item_date: "2016-09-15 00:00:00"
+  title: HTTP Calls in Ruby
+  url: https://blog.codeship.com/http-calls-ruby/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: 95ce726ea6bda57df330453e4fc38f5b
+  item_date: "2016-09-19 00:00:00"
+  title: Introducing Postman for the QuickBooks Online API
+  url: https://developer.intuit.com/hub/blog/2016/09/19/introducing-postman-quickbooks-online-api
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 5426683e3636f5a576e6f936c921976a
+  item_date: "2016-10-03 12:06:45"
+  title: 'Tweet: API calls can fail in many different ways. How does your team detect
+    API failures? (Image by @realm) https://t.co/7tcrdHNVbG'
+  url: https://twitter.com/Runscope/statuses/783020481276317696
+  domain: twitter.com
+  image: ""
+- curated_id: ca8f6a823a03c345cd312ec7166fcbd7
+  item_date: "2016-10-05 00:00:00"
+  title: It Starts with a Simple REST Client
+  url: http://blog.getpostman.com/2016/10/06/it-starts-with-a-simple-rest-client-2/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 0b87be1bac42cf86f4e2874e524bc70f
+  item_date: "2016-10-11 00:02:19"
+  title: 'API Test Automation with Postman: Part 1 ? Medium'
+  url: https://medium.com/@kevin_moses_ang/api-test-automation-with-postman-part-1-850c163bcc6e#.yuk1enr25
+  domain: medium.com
+  image: ""
+- curated_id: b54302ac310489f5020d30fa1d928864
+  item_date: "2016-10-21 18:24:14"
+  title: Adopting a Modern API Tool
+  url: https://blog.propellerlabs.co/adopting-a-modern-api-tool-94874a07abdc#.gkzv9e96a
+  domain: blog.propellerlabs.co
+  image: ""
+- curated_id: e7bfeec10b91516324e219d1102bad7e
+  item_date: "2016-11-07 00:00:00"
+  title: 'Protected: Using Postman Cloud at AMC Theatres'
+  url: http://blog.getpostman.com
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: e2922e7dce5b038100758cedb134b4c6
+  item_date: "2016-11-11 19:22:43"
+  title: Using Fiddler to call Authorized Web API endpoints
+  url: https://medium.com/@UReyesMeUp/using-fiddler-to-call-authorized-web-api-endpoints-5b605f07334f#.bm2vq3vlt
+  domain: medium.com
+  image: ""
+- curated_id: a47e33a254de1b722d31f8ed8386dfeb
+  item_date: "2016-12-14 00:00:00"
+  title: Introducing Postman Pro
+  url: http://blog.getpostman.com/2016/12/15/introducing-postman-pro/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: c731c05889de5cfb3ca38efa8009a1eb
+  item_date: "2016-12-14 00:00:00"
+  title: New Postman Pro Features API Monitoring, Documentation Generation, and Collaboration
+    Tools
+  url: http://www.programmableweb.com/news/new-postman-pro-features-api-monitoring-documentation-generation-and-collaboration-tools/brief/2016/12/14
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3e0ece9de7b2c843044956dc6fb72899
+  item_date: "2017-02-17 18:50:36"
+  title: Testing your API with Postman
+  url: https://www.codementor.io/equimper/testing-your-api-with-postman-4tuwpkswp
+  domain: www.codementor.io
+  image: ""
+- curated_id: 18cd71b056ca0cab828330d6e0d60e6e
+  item_date: "2017-02-22 21:22:29"
+  title: How Postman Is Supercharging API Workflow Of Over 3 Million Developers Worldwide
+  url: http://techstory.in/postman/
+  domain: techstory.in
+  image: ""
+- curated_id: 848612c4c41a03113cd376b730fb38ca
+  item_date: "2017-02-28 00:00:00"
+  title: Introducing the New Data Editor
+  url: http://blog.getpostman.com/2017/02/28/introducing-the-new-data-editor/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: e8813ab8b110721950c462e833b95244
+  item_date: "2017-03-01 11:48:24"
+  title: 'Tweet: Introducing the Postman Data editor. Working with data from API requests
+    now takes just a few clicks. Get the story: https://t.co/mYOT6mGTyP'
+  url: https://twitter.com/postmanclient/statuses/837026755504443401
+  domain: twitter.com
+  image: ""
+- curated_id: dcf1d0ecfd8e947d1919e36ae15a40e4
+  item_date: "2017-03-03 09:40:03"
+  title: 'Tweet: Manage data from API requests directly within Postman using the new
+    Data Editor. Find out how: https://t.co/ciFo8tTmlm'
+  url: https://twitter.com/postmanclient/statuses/837719231370264578
+  domain: twitter.com
+  image: ""
+- curated_id: 27f2223a7d6cafe36e78714fe1c3badf
+  item_date: "2017-03-03 13:37:58"
+  title: 'Tweet: Push Postman Monitor results to your Keen Streams analytics. Find
+    out more about the @keen_io  integration: https://t.co/MUpK4UJ7PC'
+  url: https://twitter.com/postmanclient/statuses/837779106519465985
+  domain: twitter.com
+  image: ""
+- curated_id: a560d926c23dc368d27d7a0ffb1eaf56
+  item_date: "2017-03-07 13:13:34"
+  title: Autocomplete and tooltips for variables are now live!
+  url: http://blog.getpostman.com/2017/03/07/autocomplete-and-tooltips-for-variables-are-here/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 77008a59c38abc70aa842c18a03deab4
+  item_date: "2017-03-10 13:01:06"
+  title: Brush up on your testing basics with this introductory community blog about
+    testing in Postman.
+  url: http://www.techjini.com/blog/basic-tests-in-postman/
+  domain: www.techjini.com
+  image: ""
+- curated_id: d4b5dde743d456baa943378ac2f18568
+  item_date: "2017-03-13 13:20:55"
+  title: Write API Tests with Postman and Newman
+  url: https://scotch.io/tutorials/write-api-tests-with-postman-and-newman
+  domain: scotch.io
+  image: ""
+- curated_id: c93fd3d0e7c99c56c6479679832492df
+  item_date: "2017-03-14 09:34:19"
+  title: Backup and Sync your Postman Collections on GitHub
+  url: http://blog.getpostman.com/2017/03/10/backup-and-sync-your-postman-collections-on-github/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: b3221d1aa2826c175669d943ebcee16c
+  item_date: "2017-03-14 13:17:29"
+  title: Microsoft Flow now supports the Postman Collection format!
+  url: https://flow.microsoft.com/en-us/blog/new-updates-custom-api/
+  domain: flow.microsoft.com
+  image: ""
+- curated_id: 8c8913e0e167cff0e93861e910fb6b57
+  item_date: "2017-03-16 14:32:36"
+  title: Simulate a back end with Postmans mock service
+  url: http://blog.getpostman.com/2017/03/16/simulate-a-back-end-with-postmans-mock-service/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: a95057b34735e5ddac572731e01efd09
+  item_date: "2017-03-21 00:00:00"
+  title: BigCommerce uses Postman before a single line of code is written
+  url: http://blog.getpostman.com/2017/03/21/bigcommerce-uses-postman-before-a-single-line-of-code-is-written/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: fc5dd89d0ff5d2ed7f2a8cfdc2723e70
+  item_date: "2017-03-22 00:00:00"
+  title: How to quick access API responses with curl and jq
+  url: https://www.contentful.com/blog/2017/03/21/how-to-quick-access-api-responses-with-curl-and-jq/
+  domain: www.contentful.com
+  image: ""
+- curated_id: 2859a6444a43bfee139d4e2366a8e606
+  item_date: "2017-03-22 11:49:56"
+  title: Convert API Definitions Into Swagger, API Blueprint, and RAML within Postman
+  url: http://blog.getpostman.com/2017/02/15/new-postman-pro-integration-apimatics-api-transformer/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: d7ffdd496018ee8a292bde4cecddfdf3
+  item_date: "2017-03-23 00:00:00"
+  title: Introducing Postman Pro
+  url: http://blog.getpostman.com/2015/12/10/introducing-postman-cloud/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 85fd0c86b01785292bc44a12d9ea79b7
+  item_date: "2017-04-05 20:13:32"
+  title: 'Tweet: Its now so much easier to deal with environment variables with the
+    new autocomplete in version 5'
+  url: https://twitter.com/GetInsomnia/statuses/849822354729455616
+  domain: twitter.com
+  image: ""
+- curated_id: 0d5a8307e8088ee8717c55df98b852dd
+  item_date: "2017-04-10 00:00:00"
+  title: BetterTLS - A Name Constraints test suite for HTTPS clients
+  url: http://techblog.netflix.com/2017/04/bettertls-name-constraints-test-suite.html
+  domain: techblog.netflix.com
+  image: ""
+- curated_id: 4fef377eb90f8112809413d6a664b3fb
+  item_date: "2017-04-10 09:46:51"
+  title: 'Tweet: .@clarifai turns to Postman Pro for API development, testing and
+    support: https://t.co/RhcxhVerz3'
+  url: https://twitter.com/postmanclient/statuses/851476582241890305
+  domain: twitter.com
+  image: ""
+- curated_id: 6aa0335fde4fdc6f9a8c1bb3c161cafc
+  item_date: "2017-04-13 00:00:00"
+  title: Announcing the Postman Enterprise Beta, with Single Sign-On (SSO)
+  url: http://blog.getpostman.com/2017/04/14/announcing-the-postman-enterprise-beta-with-single-sign-on-sso/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 9cc65a1a8ce2a1a835982efc27feeea5
+  item_date: "2017-04-14 09:56:30"
+  title: 'Tweet: Get started testing APIs with JSON Server and Postman. Learn how
+    in @kspriyaranjanrsquo;s new blog: https://t.co/qzCJxZVOEi'
+  url: https://twitter.com/postmanclient/statuses/852928560121688066
+  domain: twitter.com
+  image: ""
+- curated_id: 9f947036867a97c66d569cc254afd973
+  item_date: "2017-04-20 09:52:56"
+  title: "See what\u2019s coming soon on Postman\u2019s product roadmap"
+  url: http://blog.getpostman.com/2017/04/20/see-whats-coming-soon-on-postmans-product-roadmap/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: bdfb2f219a32ce33503a63c16bad8f1d
+  item_date: "2017-04-26 11:27:25"
+  title: 'Introducing a New Integration: Postman Pro + Slack!'
+  url: http://blog.getpostman.com/2017/02/08/introducing-a-new-integration-postman-pro-slack/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 6567c0744c1bd59af69980752d94b8f0
+  item_date: "2017-04-28 09:54:11"
+  title: 'Tweet: Simulate a backend server for testing with Postmanrsquo;s new mock
+    service. Find out how: https://t.co/uIKCLJf8Pd'
+  url: https://twitter.com/postmanclient/statuses/858001410553769985
+  domain: twitter.com
+  image: ""
+- curated_id: 4ccd5cf18c0187a4c2098deeb8f893d5
+  item_date: "2017-04-28 15:29:05"
+  title: 'Tweet: Enhance your workflows with @MicrosoftFlowrsquo;s new Postman Collection
+    integration. Read the blog by @tayalasavari: https://t.co/b4dp5ZrOCN'
+  url: https://twitter.com/postmanclient/statuses/858085690453753860
+  domain: twitter.com
+  image: ""
+- curated_id: 808393b80fffb1508c5fb510f3689b7f
+  item_date: "2017-05-04 10:18:04"
+  title: Getting Started With QuickBooks Orchestrated Postman Collections
+  url: https://developer.intuit.com/hub/blog/2017/05/02/getting-started-quickbooks-orchestrated-postman-collections
+  domain: developer.intuit.com
+  image: ""
+- curated_id: bbc7e59f949d7fc1960ff2dba90f3d48
+  item_date: "2017-05-05 09:54:24"
+  title: 'Tweet: How to Use Postman to Manage and Execute Your APIs. Read more: https://t.co/w8T9rtx1J9'
+  url: https://twitter.com/postmanclient/statuses/860538178201169920
+  domain: twitter.com
+  image: ""
+- curated_id: f053419ab4d449c8ca393e6adf6cb745
+  item_date: "2017-05-05 14:59:07"
+  title: Push Postman Monitor results to your Keen Streams analytics
+  url: https://keen.io/docs/integrations/postman/
+  domain: keen.io
+  image: ""
+- curated_id: 68c1a2bc66a8d6c1348a291dde7059e8
+  item_date: "2017-05-10 15:20:00"
+  title: "Tweet: RT @makerspherehq: Woohoo! \U0001F389 The REST/HTTP client @GetInsomnia
+    is finally #openSource, check it out! \U0001F64F\nhttps://t.co/utwKk1vVpO"
+  url: https://twitter.com/makerspherehq/status/862414386824175616
+  domain: twitter.com
+  image: ""
+- curated_id: fac6658a6301fe0cc7b5e40860f3d3c5
+  item_date: "2017-05-12 10:30:54"
+  title: 'Tweet: Learn to authenticate Postman against Azure service management API.
+    New blog by @ToonVanhoutte: https://t.co/d1NDTpeK7l'
+  url: https://twitter.com/postmanclient/statuses/863084078568001537
+  domain: twitter.com
+  image: ""
+- curated_id: a7eded75941cd1ef01131162d88ff9eb
+  item_date: "2017-05-12 13:53:39"
+  title: 'Tweet: Postman Pro is the single source of truth for @imgur endpoints. Get
+    the story: https://t.co/VAqJSKLDmB'
+  url: https://twitter.com/postmanclient/statuses/863135102682976256
+  domain: twitter.com
+  image: ""
+- curated_id: 00b691fc09cf35ce41dd0a8e7b8214c4
+  item_date: "2017-05-13 00:00:00"
+  title: OkHttp Example REST Client
+  url: https://dzone.com/articles/okhttp-example-rest-client-1
+  domain: dzone.com
+  image: ""
 ...
